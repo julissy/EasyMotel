@@ -1,0 +1,36 @@
+{
+  "name": "gp-01-pi-ifood",
+  "version": "1.0.0",
+  "description": "Projeto Integrador do grupo 01 do curso de Backend do Ifood - Digital House",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danimichelydev/GP-01-PI-Ifood.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danimichelydev/GP-01-PI-Ifood/issues"
+  },
+  "homepage": "https://github.com/danimichelydev/GP-01-PI-Ifood#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7",
+    "sequelize": "^6.21.4",
+    "swagger-ui-express": "^4.5.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1",
+    "sucrase": "^3.25.0"
+  }
+}
