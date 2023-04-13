@@ -40,7 +40,7 @@ Curso de back-end com Node Js ofertado pelo Ifood ministrado pela Digital House 
 ## Dados necessários para rodar o projeto localmente
 - Clonar do repositório
 ```bash
-  https://github.com/danimichelydev/GP-01-PI-Ifood.git
+  https://github.com/julissy/EasyMotel
 ```
 - Instalar as dependências
 ```bash
